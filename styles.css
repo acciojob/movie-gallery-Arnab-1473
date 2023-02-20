@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.row {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .coloumn1{
+  float: left;
+      width:70px;
+  }
+  .coloumn2{
+  float: left;
+      width:140px;
+  }
+  .coloumn3{
+  float: left;
+      width:280px;
+  }
